@@ -1,3 +1,6 @@
+# ACHTUNG: Weiterentwicklung der OpenXRechnungToolbox ist derzeit pausiert!
+
+
 # OpenXRechnungToolbox by Dr. Jan C. Thiele
 
 Graphical User Interface for visualization and validation of XRechnung (and other EN16931 compliant e-invoices) as well as tool for Leitweg-ID calculation and validation.
